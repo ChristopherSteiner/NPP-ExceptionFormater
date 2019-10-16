@@ -27,7 +27,7 @@ namespace Kbg.NppPluginNET.ExceptionFormater
         internal static void About()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Version 1.0");
+            sb.AppendLine($"Version 1.1");
             sb.AppendLine("License: MIT License");
             string title = "SL Exception Formater plugin";
             MessageBox.Show(sb.ToString(), title, MessageBoxButtons.OK);
