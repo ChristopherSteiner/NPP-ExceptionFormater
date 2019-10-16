@@ -6,8 +6,8 @@
     <ProjectGuid>{C0357013-049D-4454-8E21-1EC70DD513BD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Kbg.NppPluginNET.ExceptionFormatter</RootNamespace>
-    <AssemblyName>ExceptionFormatter</AssemblyName>
+    <RootNamespace>Kbg.NppPluginNET.ExceptionFormater</RootNamespace>
+    <AssemblyName>ExceptionFormater</AssemblyName>
     <OutputPath>bin\Debug\</OutputPath>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>

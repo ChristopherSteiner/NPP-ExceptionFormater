@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 
-namespace Kbg.NppPluginNET.ExceptionFormatter
+namespace Kbg.NppPluginNET.ExceptionFormater
 {
     public class ExceptionFormatHandler
     {

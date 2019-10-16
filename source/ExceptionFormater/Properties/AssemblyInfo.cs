@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ExceptionFormatter")]
+[assembly: AssemblyTitle("ExceptionFormater")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("MyName")]
-[assembly: AssemblyProduct("ExceptionFormatter")]
+[assembly: AssemblyProduct("ExceptionFormater")]
 [assembly: AssemblyCopyright("Copyright © MyName 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
